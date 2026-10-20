@@ -1,0 +1,55 @@
+<!-- Offizielles TikTok Scroller Launcher-Icon -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Kopfhoerer-Buegel -->
+    <path
+        android:pathData="M 28 56 C 28 30 80 30 80 56"
+        android:strokeColor="#525866"
+        android:strokeWidth="6"
+        android:strokeLineCap="round" />
+
+    <!-- Kopfhoerer-Kissen Links mit Cyan-Akzent -->
+    <path
+        android:pathData="M 18 48 L 30 48 L 30 72 L 18 72 Z"
+        android:fillColor="#22252C"
+        android:strokeColor="#25F4EE"
+        android:strokeWidth="2" />
+
+    <!-- Kopfhoerer-Kissen Rechts mit Magenta-Akzent -->
+    <path
+        android:pathData="M 78 48 L 90 48 L 90 72 L 78 72 Z"
+        android:fillColor="#22252C"
+        android:strokeColor="#FE2C55"
+        android:strokeWidth="2" />
+
+    <!-- Smartphone Rahmen in der Mitte -->
+    <path
+        android:pathData="M 38 32 L 70 32 L 70 88 L 38 88 Z"
+        android:fillColor="#121318"
+        android:strokeColor="#4A4F5B"
+        android:strokeWidth="2" />
+
+    <!-- Smartphone Display (TikTok Feed) -->
+    <path
+        android:pathData="M 40 34 L 68 34 L 68 86 L 40 86 Z"
+        android:fillColor="#0B0C0E" />
+
+    <!-- Play-Button in Display-Mitte -->
+    <path
+        android:pathData="M 52 56 L 60 61 L 52 66 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Vertikaler Wisch-Pfeil NACH OBEN (Cyan) -->
+    <path
+        android:pathData="M 54 40 L 60 47 L 56 47 L 56 53 L 52 53 L 52 47 L 48 47 Z"
+        android:fillColor="#25F4EE" />
+
+    <!-- Vertikaler Wisch-Pfeil NACH UNTEN (Magenta) -->
+    <path
+        android:pathData="M 54 82 L 60 75 L 56 75 L 56 69 L 52 69 L 52 75 L 48 75 Z"
+        android:fillColor="#FE2C55" />
+</vector>

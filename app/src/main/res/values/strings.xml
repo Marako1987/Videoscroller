@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TikTok Scroller</string>
+    <string name="accessibility_service_name">TikTok Headphone Controller Service</string>
+    <string name="accessibility_service_description">Ermoeglicht die Steuerung von TikTok (Pause/Play, Weiterwischen, Vorspulen, Neustart) ueber normale Kopfhoerertasten.</string>
+    <string name="instructions_title">Kopfhoerer-Gesten in TikTok:</string>
+    <string name="instructions_body">1x Klick: Video Pause / Play&#10;Halten: 2x Vorspulen (Speed)&#10;2x Klick: Naechstes TikTok (Wischen)&#10;3x Klick: TikTok von vorne abspielen</string>
+</resources>
